@@ -19,7 +19,7 @@ Welcome to the Modern Rounded UI project! This application features a sleek and 
 
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/your-username/modern-rounded-ui.git
+    git clone https://github.com/Leksa667/Modern-Rounded-UI.git
     cd modern-rounded-ui
     ```
 
