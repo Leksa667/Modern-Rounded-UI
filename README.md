@@ -2,6 +2,10 @@
 
 Welcome to the Modern Rounded UI project! This application features a sleek and modern login interface with custom rounded UI elements, providing a visually appealing and user-friendly experience.
 This project is perfect for developers and students looking to learn and implement a stylish authentication screen in their applications.
+
+Possible improvement but it's good base
+
+
 ## Screenshot
 
 ![image](https://github.com/user-attachments/assets/4e27df56-0fa9-4d20-a42e-687c990f1e72)
