@@ -169,6 +169,11 @@ LRESULT CALLBACK WindowProc(HWND hwnd, UINT uMsg, WPARAM wParam, LPARAM lParam) 
         PostQuitMessage(0);
         return 0;
 
+    case WM_CTLCOLORBTN: 
+    {
+        return (LRESULT)GetStockObject(NULL_BRUSH);
+    }
+        
     case WM_CREATE: {
         RECT rect;
         GetClientRect(hwnd, &rect);
@@ -329,4 +334,5 @@ int WINAPI wWinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, PWSTR pCmdLine
         DispatchMessage(&msg);
     }
     return 0;
+
 }
