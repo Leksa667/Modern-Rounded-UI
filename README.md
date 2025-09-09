@@ -8,7 +8,7 @@ Possible improvement but it's good base
 
 ## Screenshot
 
-![image](https://github.com/user-attachments/assets/4e27df56-0fa9-4d20-a42e-687c990f1e72)
+<img width="520" height="415" alt="image" src="https://github.com/user-attachments/assets/fc953cb3-969e-4872-aaaa-2cd95673789e" />
 
 
 ## Getting Started
